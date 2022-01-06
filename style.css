@@ -1,0 +1,177 @@
+/*font-family: 'Merriweather', serif;
+font-family: 'Open Sans', sans-serif;*/
+body{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    height: 450px;
+}
+h1{
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 8px;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    padding: 5px 0px; 
+}
+span{
+    color: #ffad5a;
+}
+.content-area{
+    width: 85%;
+    margin: auto;
+}
+.anchor-button{
+    text-decoration: none;
+    background-color: #ff5959;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+}
+.large-width{
+    width: 57%;
+    float: left;
+    margin-right: 8%;
+}
+.large-width:last-child{
+    margin-right: 0;
+}
+.main-hadding{
+    padding-left: 10px;
+    border-left: 4px solid #ff5959;  
+}
+.small-width{
+    width: 35%;
+    float: left;
+    margin-right: 8%;
+    height: 100%;
+}
+.small-width:last-child{
+    margin-right: 0;
+}
+.small-width img{
+    width: 100%;
+    
+}
+#section-hadding{
+    font-size: 45px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.second-section p{
+    text-align: justify;
+}
+.third-section{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 0% 20% ;
+    background-size: 230px 230px;
+}  
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 8px;
+}
+.fourth-section{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom right ;
+    background-size: 230px 230px;
+}
+footer{
+    height: 150px;
+    background-color: #1a1a1a;
+    text-align: center;
+    color: #ffffff;
+    position: relative;
+}
+footer p{
+    font-family: 'Manrope', sans-serif;
+    color: #ffffff7c;
+}
+footer h3{
+    font-family: 'Lobster Two', cursive;
+    padding-top: 30px;
+    letter-spacing: 2px;
+}
+footer span{
+    color: #ff5959;
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    margin: 0;
+}
+.para{
+    width: 26%;
+    float: left;
+    padding: 40px 2%;
+    margin-right: 5%;
+    display: block;
+    border-radius: 3%;   
+}
+.para:last-child{
+    margin-right: 0;
+}
+.para img{
+    height: 70px;
+}
+.mission{
+    background-color: #4f9da61a;
+}
+.vission{
+    background-color: #ff59591a;
+}
+.goals{
+    background-color: #fff4d6;;
+}
+
+.logo{
+    height: 100px;
+    margin-right: 62px;
+    margin-block-end: auto;
+    float: left;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.logo:last-child{margin-right: 0;}
+
+.section-end{
+    background-image: url(images/background-img.png);
+    background-repeat: no-repeat;
+    background-position: bottom center ;
+    background-size: auto;
+    height: 100px;
+}
+.fifth-section img{
+    height: 350px;
+    width: auto;
+}
+
+.fifth-section{
+    background-image: url(images/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: left ;
+    background-size: 130px 130px;
+    background-position-x: 50px;
+
+}
+.sixth-section{
+    height: 250px;
+}
