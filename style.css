@@ -1,5 +1,4 @@
-/*font-family: 'Merriweather', serif;
-font-family: 'Open Sans', sans-serif;*/
+
 body{
     margin: 0;
     padding: 0;
@@ -172,6 +171,11 @@ h3{
     background-position-x: 50px;
 
 }
+
+
 .sixth-section{
     height: 250px;
+}
+.second-section{
+    height: 550px;
 }
